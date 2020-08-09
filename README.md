@@ -5,7 +5,7 @@
 
 Требования
 ===
- - [SourceMod](https://sm.alliedmods.net/) 1.8 или выше
+ - [SourceMod](https://sm.alliedmods.net/) 1.8
  - [[VIP] Core](https://hlmod.ru/resources/vip-core.245/) 3.0.1 R
  - [[Shop] Core](https://hlmod.ru/resources/shop-core-not-supported.182/) (2.0.22) by FrozDark
 
